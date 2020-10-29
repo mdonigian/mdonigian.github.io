@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Matthew Donigian"
+  name   : "Matt Donigian"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I am a Software Engineer with experience in "Big Data" and distributed computing. Nowadays I mostly work with Apache Spark and Scala. Currently managing the data engineering team at PebblePost, but these thoughts are my own."
+  bio    : "I am a Software Engineer with experience in Big Data and distributed computing. Nowadays I mostly work with Apache Spark and Scala. Currently managing the data engineering team at PebblePost, but these thoughts are my own."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
