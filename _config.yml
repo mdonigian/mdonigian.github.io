@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matt Donigian Writes on Software Engineering
+title: Matt Donigian on Software Engineering
 email: matthew.donigian@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software Engineering blog, mostly focused on "Big Data", Scala, and Apache Spark.
