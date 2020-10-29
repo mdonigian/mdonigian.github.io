@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Matt Donigian"
-  avatar : "/assets/images/headshot.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "I am a Software Engineer with experience in Big Data and distributed computing. Nowadays I mostly work with Apache Spark and Scala. Currently managing the data engineering team at PebblePost, but these thoughts are my own."
   links:
     - label: "Twitter"
