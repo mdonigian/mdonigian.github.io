@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Matt Donigian"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "Software Engineer: Big Data, Scala, and Spark"
+  bio    : "Software Engineer:<br>Big Data, Scala, and Spark"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
